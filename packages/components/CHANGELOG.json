@@ -2,6 +2,18 @@
   "name": "@rush/components",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@rush/components_v1.0.2",
+      "date": "Wed, 07 Sep 2022 11:23:38 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@rush/hooks\" to `1.0.2`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@rush/components_v1.0.1",
       "date": "Wed, 07 Sep 2022 11:21:12 GMT",
