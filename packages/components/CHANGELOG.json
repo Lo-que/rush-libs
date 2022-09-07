@@ -1,0 +1,17 @@
+{
+  "name": "@rush/components",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "@rush/components_v1.1.0",
+      "date": "Wed, 07 Sep 2022 10:54:16 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "增加组件"
+          }
+        ]
+      }
+    }
+  ]
+}
