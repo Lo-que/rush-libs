@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@rush/hooks",
+      "comment": "",
+      "type": "none"
+    }
+  ],
+  "packageName": "@rush/hooks"
+}
