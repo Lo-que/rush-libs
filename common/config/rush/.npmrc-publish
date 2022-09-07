@@ -19,5 +19,5 @@
 #   //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}
 #
 registry=http://172.105.188.88:4873/
-//172.105.188.88:4873/:\_authToken="zwZGdvFpQYQ8Vyy0H4XsNA=="
+//172.105.188.88:4873/:_authToken="zwZGdvFpQYQ8Vyy0H4XsNA=="
 
