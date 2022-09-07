@@ -1,0 +1,17 @@
+{
+  "name": "@rush/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@rush/components_v1.0.1",
+      "date": "Wed, 07 Sep 2022 11:06:18 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "解决npm源的bug"
+          }
+        ]
+      }
+    }
+  ]
+}
