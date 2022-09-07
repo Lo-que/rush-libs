@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  ../../packages/components:
+    specifiers:
+      '@rush/hooks': workspace:*
+    dependencies:
+      '@rush/hooks': link:../hooks
+
+  ../../packages/hooks:
+    specifiers: {}
