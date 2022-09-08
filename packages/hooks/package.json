@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "~2.79.0",
+    "rollup-plugin-swc": "~0.2.1",
+    "@swc/core": "~1.2.248",
+    "@rollup/plugin-typescript": "~8.5.0",
+    "tslib": "~2.4.0"
+  }
 }

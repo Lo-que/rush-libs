@@ -300,11 +300,15 @@
     /**
      * The list of shell commands to run before the Rush build command starts
      */
-    "preRushBuild": [],
+    "preRushBuild": [
+      "node ./packages/components/scripts/gen-entry.js"
+    ],
     /**
      * The list of shell commands to run after the Rush build command finishes
      */
-    "postRushBuild": []
+    "postRushBuild": [
+      "rm ./packages/components/index.ts"
+    ]
   },
   /**
    * Installation variants allow you to maintain a parallel set of configuration files that can be
