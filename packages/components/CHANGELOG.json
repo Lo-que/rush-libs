@@ -2,6 +2,23 @@
   "name": "@rush/components",
   "entries": [
     {
+      "version": "1.1.0",
+      "tag": "@rush/components_v1.1.0",
+      "date": "Thu, 08 Sep 2022 16:22:20 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "add .swcrc.json"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@rush/hooks\" to `1.0.3`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@rush/components_v1.0.2",
       "date": "Wed, 07 Sep 2022 11:23:38 GMT",
